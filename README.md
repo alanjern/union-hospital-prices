@@ -1,4 +1,4 @@
-# Union hospital prices
+# Union Hospital prices
 
 > An analysis of price discrepancies at Union Hospital in Terre Haute, IN.
 
